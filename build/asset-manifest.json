@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/romi-finance/static/css/main.cfd1ff5c.css",
+    "main.js": "/romi-finance/static/js/main.e7af09de.js",
+    "static/media/t3.svg": "/romi-finance/static/media/t3.53ac41f300649e04cf68abbcf3fd6136.svg",
+    "static/media/romilogo.png": "/romi-finance/static/media/romilogo.7fd957bee5cc9d0a0571.png",
+    "static/media/simpc2.svg": "/romi-finance/static/media/simpc2.b4a729d315d7ecfe0fb56bc37f974f52.svg",
+    "static/media/t2.svg": "/romi-finance/static/media/t2.8330ef8dcf4d6959a9eae73545da71c9.svg",
+    "static/media/minc1.svg": "/romi-finance/static/media/minc1.2c53815a7623a4898b0150a19fc3c5e9.svg",
+    "static/media/minc3.svg": "/romi-finance/static/media/minc3.ae09b3105674952ee8d92dcf16d22d1f.svg",
+    "static/media/t4.svg": "/romi-finance/static/media/t4.27f415ba778073d06acad7e958eaa641.svg",
+    "static/media/simpc3.svg": "/romi-finance/static/media/simpc3.2005009f5f16e87417d44b8c8b1ad47e.svg",
+    "static/media/simpc1.svg": "/romi-finance/static/media/simpc1.505b3f3092989052e6f990d498df3dd0.svg",
+    "index.html": "/romi-finance/index.html",
+    "static/media/t1.svg": "/romi-finance/static/media/t1.5e255508ace6905c481553b55d27a0e4.svg",
+    "static/media/minc2.svg": "/romi-finance/static/media/minc2.f0a18011f34ad3ae0cde3c5949cf6555.svg",
+    "main.cfd1ff5c.css.map": "/romi-finance/static/css/main.cfd1ff5c.css.map",
+    "main.e7af09de.js.map": "/romi-finance/static/js/main.e7af09de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd1ff5c.css",
+    "static/js/main.e7af09de.js"
+  ]
+}
